@@ -3,5 +3,5 @@
 - 🤔 I’m looking for internship
 - 💬 Ask me about Flutter,Android
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100033438050802
-- ⚡ Fun fact: blogging
+- ⚡ Fun fact: blogging,coding
 -->
